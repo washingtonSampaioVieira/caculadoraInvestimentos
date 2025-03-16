@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="gson-2.9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jars/gson-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/junit-jupiter-api-5.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/junit-jupiter-params-5.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/junit-jupiter-engine-5.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/junit-platform-console-standalone-1.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
