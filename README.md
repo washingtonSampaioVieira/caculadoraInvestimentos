@@ -48,7 +48,3 @@ Para testar manualmente:
 2. Cole os dados no terminal.
 3. Compare a saída gerada pelo programa com a saída esperada, que também está descrita no arquivo Massa de testes.txt.
 
-
---- 
-
-Autor: Washington Sampaio Vieria  - Versão: 1.0
